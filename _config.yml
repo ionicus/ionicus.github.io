@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
-title: Ion's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Ion's adventures in tech
+email: ion@sanctioned.net
+description: >
+  This is where I keep track of my projects and keep notes on what worked (and what didn't) for future reference.
+  You can follow along and learn from my mistakes or contribute any ideas or suggestions to improve upon my work.
+baseurl: ""
+url: "ionicus.github.io"
+github_username: ionicus
+markdown: kramdown
